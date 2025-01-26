@@ -155,6 +155,12 @@ enabled-extensions=['ding@rastersoft.com', 'ubuntu-dock@ubuntu.com', 'tiling-ass
 favorite-apps=['org.gnome.Nautilus.desktop', 'org.gnome.Terminal.desktop']
 welcome-dialog-last-shown-version='46.0'
 
+[org/gnome/shell/extensions/HideItems]
+allindicator=['System stats', 'Gjs_ubuntu-appindicators_ubuntu_com_indicatorStatusIcon_IndicatorStatusIcon', 'update-notifier', 'update-notifier', 'Layout Indicator (Tiling Assistant)', 'Stop Screencast', 'ClipboardIndicator', 'Stop Screen Sharing', 'Dwell Click', 'Accessibility', 'Keyboard']
+hideiconstate='1'
+nothiddenindicator=['Gjs_runcat_kolesnikov_se_indicator_RunCatIndicator', 'Looking Glass Button Indicator', 'System stats']
+topbarupdater='1'
+
 [org/gnome/shell/extensions/clipboard-indicator]
 cache-only-favorites=true
 cache-size=256
