@@ -1,0 +1,10 @@
+{
+    "state": "1",
+    "visibility": true,
+    "defaultVisibility": true,
+    "visibleChildren": [
+        "Gjs_runcat_kolesnikov_se_indicator_RunCatIndicator",
+        "Looking Glass Button Indicator",
+        "System stats"
+    ]
+}

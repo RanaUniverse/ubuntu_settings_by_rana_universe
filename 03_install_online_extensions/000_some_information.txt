@@ -9,5 +9,12 @@ This only include the file not the settings of this.
 
 The settings got saved in somewhere to get this i can use dconf dump / > file.txt, from where i can see the settings individually or i need to export in each of the extesnion page in the extension manager application.
 
+The Online Extensions i am using here:
+
+1. dash-to-panel@jderose9.github.com
+2. clipboard-indicator@tudmotu.com
+3. notification-banner-reloaded@marcinjakubowski.github.com
+4. HideItems@fablevi.github.io
+
 
 
