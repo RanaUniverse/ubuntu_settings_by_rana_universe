@@ -1,5 +1,8 @@
 # Ubuntu 24.04 LTS
 
+Same As: 
+```git clone https://github.com/RanaUniverse/u1```
+
 [Guide For Download Iso File](z_extra_rana_universe/iso_file_download_page.md)
 
 I think rather than install new version of os i will use apt upgrade after install 24.04
