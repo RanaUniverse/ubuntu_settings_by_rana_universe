@@ -144,6 +144,11 @@ binding='<Control><Super>f'
 command='firefox'
 name='Open Firefox Browser Application'
 
+[org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom5]
+binding='<Shift><Control><Alt><Super>s'
+command='systemctl suspend'
+name='Sleep or Suspand Laptop'
+
 [org/gnome/settings-daemon/plugins/power]
 power-button-action='suspend'
 sleep-inactive-ac-timeout=3600
